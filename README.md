@@ -14,7 +14,7 @@ Crafting robust, scalable solutions — from backend systems to user-facing appl
 ### 💼 Professional Summary
 
 - 🌍 Based in **Pakistan**  
-- 💻 Fluent in **C++** and the **JavaScript ecosystem** (Node.js, React)  
+- 💻 Fluent in **C++** and the **JavaScript ecosystem** (Node.js, n8n)  
 - Skilled at designing and deploying **APIs**, **automation tools**, and **interactive dashboards**  
 - Experienced across **frontend**, **backend**, and **data-driven solutions**
 
@@ -23,7 +23,7 @@ Crafting robust, scalable solutions — from backend systems to user-facing appl
 ### 📁 🔗 Explore More
 
 - 📂 [All Projects & Code](https://github.com/SaltyAsad)  
-- 📄 [**Resume**](https://github.com/AsharAmir/AsharAmir/blob/main/Ashhar%20Amir%20-%20Resume.pdf)  
+<!--- 📄 [**Resume**](https://github.com/pdf)  -->
 - 📫 Reach out via: **asadarif135@gmail.com**
 
 ---
@@ -31,19 +31,17 @@ Crafting robust, scalable solutions — from backend systems to user-facing appl
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="40" height="40" />
+  <img src="https://n8n.io/favicon.ico" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="40" height="40" />
 </p>
 
 ---
