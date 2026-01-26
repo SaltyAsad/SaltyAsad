@@ -1,20 +1,20 @@
 <h1 align="center">👋 Hi, I’m Asad Arif</h1>
-<h3 align="center">Dedicated Software Developer | Full-Stack Expert | Automation Enthusiast</h3>
+<h3 align="center">Dedicated Software Developer | Automation Enthusiast</h3>
 
 <p align="center">
 Crafting robust, scalable solutions — from backend systems to user-facing applications.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=asharamir&label=Profile%20Views&color=0e75b6&style=flat" alt="asharamir" />
+  <img src="https://komarev.com/ghpvc/?username=SaltyAsad&label=Profile%20Views&color=0e75b6&style=flat" alt="SaltyAsad" />
 </p>
 
 ---
 
 ### 💼 Professional Summary
 
-- 🌍 Based between **Saudi Arabia & Pakistan**  
-- 💻 Fluent in **Python**, **C++**, and the **JavaScript ecosystem** (Node.js, React)  
+- 🌍 Based in **Pakistan**  
+- 💻 Fluent in **C++** and the **JavaScript ecosystem** (Node.js, React)  
 - Skilled at designing and deploying **APIs**, **automation tools**, and **interactive dashboards**  
 - Experienced across **frontend**, **backend**, and **data-driven solutions**
 
@@ -22,9 +22,9 @@ Crafting robust, scalable solutions — from backend systems to user-facing appl
 
 ### 📁 🔗 Explore More
 
-- 📂 [All Projects & Code](https://github.com/AsharAmir)  
+- 📂 [All Projects & Code](https://github.com/SaltyAsad)  
 - 📄 [**Resume**](https://github.com/AsharAmir/AsharAmir/blob/main/Ashhar%20Amir%20-%20Resume.pdf)  
-- 📫 Reach out via: **ashharamir@gmail.com**
+- 📫 Reach out via: **asadarif135@gmail.com**
 
 ---
 
@@ -51,5 +51,5 @@ Crafting robust, scalable solutions — from backend systems to user-facing appl
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asharamir&show_icons=true&theme=radical&locale=en" alt="asharamir" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaltyAsad&show_icons=true&theme=radical&locale=en" alt="SaltyAsad" />
 </p>
