@@ -23,7 +23,7 @@ Crafting robust, scalable solutions — from backend systems to user-facing appl
 ### 📁 🔗 Explore More
 
 - 📂 [All Projects & Code](https://github.com/SaltyAsad?tab=repositories)  
-<!--- 📄 [**Resume**](https://github.com/pdf)  -->
+- 📄 [**Resume**](https://github.com/SaltyAsad/SaltyAsad/blob/main/ASAD_ARIF_RESUME.pdf)
 - 📫 Reach out via: **asadarif135@gmail.com**
 
 ---
